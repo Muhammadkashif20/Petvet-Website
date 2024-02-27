@@ -166,7 +166,7 @@ header{
 .box3{
     background-color: white;
     width: 100%;
-    height: 20vh;
+    height: 50vh;
     margin-top: -31rem;
 }
 .box3-heading{
@@ -202,4 +202,202 @@ header{
     height:57px;
     width: 15rem;
     margin-left: -1rem;
+}
+.box4{
+    height: 130vh;
+    text-align: center;
+
+}
+.box4-heading1{
+    color: rgb(255, 0, 98);
+    font-weight:600;
+    font-size: 15px;
+    padding-top: 8rem;
+}
+.box4-heading2{
+    font-size:40px;
+    font-weight:bold;
+}
+.box4-card1{
+   
+    margin-top: 13rem;
+    /* margin-left : 5rem; */
+    width: 17rem;
+    height: 50vh;
+    background-color: white;
+    display: inline-block;
+}
+.box4-card1:hover{
+    background-color:rgba(116, 206, 37, 0.909);
+    color: white;
+
+}
+.box4-card1-img{
+    border-radius: 180px;
+    border: 10px solid rgb(245, 245, 245) ;
+    position: relative;
+    top: -5rem;
+}
+.box4-card1-heading1{
+    font-size: 20px;
+    font-weight: bold;
+    position: relative;
+    top: -4rem;
+
+}
+.box4-card1-text1{
+    color: rgb(255, 0, 98);
+    font-weight: 600;
+    position: relative;
+    top: -4rem;
+}
+
+.box4-card2{
+    /* margin-top: 5rem; */
+    margin-left: 1rem;
+    width: 17rem;
+    height: 50vh;
+    background-color: white;
+    display: inline-block;
+}
+.box4-card2:hover{
+    background-color:rgba(116, 206, 37, 0.909);
+    color: white;
+}
+.box4-card1-heading2{
+    font-size: 20px;
+    font-weight: bold;
+    position: relative;
+    top: -4rem;
+
+}
+.box4-card1-text2{
+    color: rgb(255, 0, 98);
+    font-weight: 600;
+    position: relative;
+    top: -4rem;
+}
+.box4-card1-img2{
+    border-radius: 180px;
+    border: 10px solid rgb(245, 245, 245) ;
+    position: relative;
+    top: -5rem;
+}
+.box4-card3{
+    /* margin-top: 5rem; */
+    margin-left: 1rem;
+    width: 17rem;
+    height: 50vh;
+    background-color: white;
+    display: inline-block;
+}
+.box4-card3:hover{
+    background-color:rgba(116, 206, 37, 0.909);
+    color: white;
+}
+.box4-card1-heading3{
+    font-size: 20px;
+    font-weight: bold;
+    position: relative;
+    top: -4rem;
+
+}
+
+.box4-card1-text3{
+    color: rgb(255, 0, 98);
+    font-weight: 600;
+    position: relative;
+    top: -4rem;
+}
+.box4-card1-img3{
+    border-radius: 180px;
+    border: 10px solid rgb(245, 245, 245) ;
+    position: relative;
+    top: -5rem;
+}
+.box4-card4{
+    /* margin-top: 5rem; */
+       margin-left: 1rem;
+    width: 17rem;
+    height: 50vh;
+    background-color: white;
+    display: inline-block;
+}
+.box4-card4:hover{
+    background-color:rgba(116, 206, 37, 0.909);
+    color: white;
+    
+}
+.box4-card1-heading4{
+    font-size: 20px;
+    font-weight: bold;
+    position: relative;
+    top: -4rem;
+
+}
+.box4-card1-text4{
+    color: rgb(255, 0, 98);
+    font-weight: 600;
+    position: relative;
+    top: -4rem;
+}
+.box4-card1-img4{
+    border-radius: 180px;
+    border: 10px solid rgb(245, 245, 245) ;
+    position: relative;
+    top: -5rem;
+}
+.fa-brands{
+    font-size: 32px;
+    margin-left: 5px;
+    position: relative;
+    top: -4rem;
+}
+.box5{
+    margin-top: 5rem;
+    background-image: url(img/bg_3.jpg.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+    
+    
+}
+.box5-heading{
+    font-weight: 700;
+    font-size: small;
+    text-align: center;
+    padding-top: 5rem;
+}
+.box5-heading2{
+    color: white;
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+    
+}
+.box5-card1{
+    width: 21rem;
+    height: 45vh;
+    background-color: white;
+    border-radius: 6px;
+    display: inline-block;
+    margin-left: 5rem;
+    margin-top: 3rem;
+}
+.box5-card2{
+    width: 21rem;
+    height: 45vh;
+    background-color: white;
+    border-radius: 6px;
+    display: inline-block;
+    margin-left: 2rem;
+}
+.box5-card3{
+    width: 21rem;
+    height: 45vh;
+    background-color: white;
+    border-radius: 6px;
+    display: inline-block;
+    margin-left: 2rem;
 }
