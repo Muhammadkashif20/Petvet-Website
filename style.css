@@ -401,3 +401,12 @@ header{
     display: inline-block;
     margin-left: 2rem;
 }
+.far{
+    font-size: 30px;
+    position: relative;
+    top: 3px;
+}
+.nav-text{
+    margin-left: 2rem;
+
+}
